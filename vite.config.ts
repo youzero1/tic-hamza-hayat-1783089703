@@ -65,6 +65,10 @@ export default defineConfig({
 
   
 
+  
+
+  
+
   root: projectRoot,
   plugins: [react(), tailwindcss(), forceFullReload],
   resolve: {
